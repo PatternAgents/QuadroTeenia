@@ -26,7 +26,22 @@ The QuadroTeenia is a low cost, embeddable audio module
 circuits for demonstrating the use of the PatternAgents IP and Libraries.
 
 ---------------------------------------
-## QuadroTeenia Status <a name="QuadroTeenia_status"/>
+## QuadroTeenia Applications <a name="QuadroTeenia_Applications"/>
+
+* USB to Quadrophonic Headphones - high quality surround sound for VR applications
+* USB to Dual Stereo Headphones - drive sets of headphones for art installations
+* USB VOIP/Telephony device - two headsets (with microphones) for training, monitoring calls
+* Audio "trigger" device - play samples based on external triggers
+
+Add "Quadro" option boards for :
+* USB/MIDI to Eurorack Audio/CV/Control/Trigger
+* Eurorack Multi-Sample Player
+* Eurorack Sequencer
+* Eurorack Reverb/Echo/Delay/Flanger
+* Eurorack Complex Filter 
+
+---------------------------------------
+## QuadroTeenia Status <a name="QuadroTeenia_Status"/>
 
 **4/06/2018:** 
 Revision 1.0.0 - Initial Layout received from OSHpark
