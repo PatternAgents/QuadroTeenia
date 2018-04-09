@@ -1,13 +1,18 @@
-# QuadroTeenia - PSoC4 (Large) Embedded Module :
-
-
-The QuadroTeenia is a
+# QuadroTeenia - A multi-channel, polymorphic audio module for the PJRC Teensy 3.6 :
 
 
 The QuadroTeenia is a low cost, embeddable audio module :
 
 * Teensy 3.6 Based (32 bit 180 MHz ARM Cortex-M4 processor with floating point unit and DSP)
 * USB Full-Speed Controller (USB Audio, MIDI, COM, HID)
+* Quadrophonic Headphone outputs (dual 3.5mm stereo jacks)
+* Four (4) AC coupled, line level audio input channels (dual 3.5mm stereo jacks)
+* Four (4) AC coupled, line level audio output channels (dual 3.5mm stereo jacks)
+* Four (4) DC coupled, ADC input channels
+* Four (4) DC coupled, DAC output channels
+* Four (4) DC coupled  Trigger input channels
+* Four (4) DC coupled  Trigger output channels
+* Dual (2) Flash/SRAM footprints for audio buffer (delay, echo, loop) memeories
 
 
 [![patternagents QuadroTeenia](https://raw.githubusercontent.com/patternagents/QuadroTeenia/master/QuadroTeenia/images/QuadroTeenia_iso.png?raw=true)QuadroTeenia](https://github.com/patternagents/QuadroTeenia)
@@ -16,11 +21,10 @@ The QuadroTeenia is a low cost, embeddable audio module :
 circuits for demonstrating the use of the patternagents libraries.
 
 ---------------------------------------
-
 ## QuadroTeenia Status <a name="QuadroTeenia_status"/>
 
-**11/06/2016:** 
-Revision 1.0 - Initial Layout released to OSHpark
+**4/06/2018:** 
+Revision 1.0.0 - Initial Layout received from OSHpark
 
 ---------------------------------------
 ## QuadroTeenia Model Images
