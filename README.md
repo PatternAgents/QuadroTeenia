@@ -61,4 +61,4 @@ Revision 1.0.0 - Initial Layout received from OSHpark
 ---------------------------------------
 
 [![thingSoC](http://thingsoc.github.io/img/projects/thingSoC/thingSoC_thumb.png?raw=true) 
-*patternagents*](http://thingsoc.github.io)
+*PatternAgents, LLC*](http://thingsoc.github.io)
