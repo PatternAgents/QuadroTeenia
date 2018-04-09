@@ -14,12 +14,16 @@ The QuadroTeenia is a low cost, embeddable audio module
 * Four (4) DC coupled  Trigger input channels
 * Four (4) DC coupled  Trigger output channels
 * Dual (2) Flash/SRAM footprints for audio buffer (delay, echo, loop) memeories
+* NVSRAM (non-volatile memory) for configuration memory (Embedis support)
+* WS2812 Programmable RGB LED with output chain drivers
+* Add optional "Quadro" boards for ERA and Eurorack jacks and interfaces
+* Add optional Front-Panel board for mounting in ERA and/or Eurorack enclosures
 
 
 [![patternagents QuadroTeenia](https://raw.githubusercontent.com/patternagents/QuadroTeenia/master/QuadroTeenia/images/QuadroTeenia_iso.png?raw=true)QuadroTeenia](https://github.com/patternagents/QuadroTeenia)
 
 **thingSoC ERA** are OEM friendly implementations that implement various reference 
-circuits for demonstrating the use of the patternagents libraries.
+circuits for demonstrating the use of the PatternAgents IP and Libraries.
 
 ---------------------------------------
 ## QuadroTeenia Status <a name="QuadroTeenia_status"/>
@@ -43,7 +47,7 @@ Revision 1.0.0 - Initial Layout received from OSHpark
 
 [QuadroTeenia Project](http://thingsoc.github.io/projects/QuadroTeenia.html)
 
-[QuadroTeenia Hardware](https://github.com/patternagents/QuadroTeenia/tree/master/QuadroTeenia/hardware)
+[QuadroTeenia Hardware](https://github.com/patternagents/QuadroTeenia/tree/master/QuadroTeenia/revisions/R1_0_0)
 
 
 ---------------------------------------
