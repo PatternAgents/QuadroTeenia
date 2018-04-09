@@ -1,8 +1,9 @@
-# QuadroTeenia - A multi-channel, polymorphic audio module for the PJRC Teensy 3.6 :
+# QuadroTeenia - A multi-channel, polymorphic audio module
 
 
-The QuadroTeenia is a low cost, embeddable audio module :
+The QuadroTeenia is a low cost, embeddable audio module
 
+* Embedded Rack Architecture (Eurorack compatible)
 * Teensy 3.6 Based (32 bit 180 MHz ARM Cortex-M4 processor with floating point unit and DSP)
 * USB Full-Speed Controller (USB Audio, MIDI, COM, HID)
 * Quadrophonic Headphone outputs (dual 3.5mm stereo jacks)
