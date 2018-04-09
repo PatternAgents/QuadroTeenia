@@ -52,11 +52,11 @@ Revision 1.0.0 - Initial Layout received from OSHpark
 
 ---------------------------------------
 
-## patternagents Documentation Index <a name="patternagents_documentation_index"/>
+## Documentation Index <a name="documentation_index"/>
 
-[patternagents Organization Website](http://patternagents.github.io)
+[Organization Website](http://patternagents.github.io)
 
-[patternagents FAQ - Frequently Asked Questions](http://thingsoc.github.io/support/faq.html)
+[FAQ - Frequently Asked Questions](http://thingsoc.github.io/support/faq.html)
 
 ---------------------------------------
 
