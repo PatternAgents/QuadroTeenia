@@ -32,11 +32,9 @@ The QuadroTeenia is a low cost, embeddable audio module based on the PJRC Teensy
 * Add optional "Quadro" boards for ERA and Eurorack jacks and interfaces
 * Add optional Front-Panel board for mounting in ERA and/or Eurorack enclosures
 
+[![QuadroTeenia](https://img.youtube.com/vi/xMB5RRlq_T8/0.jpg)](https://www.youtube.com/watch?v=xMB5RRlq_T8)
 
 [![patternagents QuadroTeenia](https://raw.githubusercontent.com/patternagents/QuadroTeenia/master/QuadroTeenia/images/QuadroTeenia_iso.png?raw=true)QuadroTeenia](https://github.com/patternagents/QuadroTeenia)
-
-**thingSoC ERA** are OEM friendly implementations that implement various reference 
-circuits for demonstrating the use of the PatternAgents IP and Libraries.
 
 ---------------------------------------
 ## QuadroTeenia Applications <a name="QuadroTeenia_Applications"/>
