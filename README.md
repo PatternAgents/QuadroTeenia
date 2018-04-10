@@ -14,11 +14,12 @@ Power : +5V (USB) 200mA
 
 Jacks : 3.5mm Jacks (CUI SJ1)
 
-The QuadroTeenia is a low cost, embeddable audio module based on the PJRC Teensy 3.5/3.6 module :
+The QuadroTeenia is a low cost, embeddable audio module based on the Teensy 3.5/3.6 from PJRC :
 
-* Embedded Rack Architecture (Eurorack compatible)
+* Embedded Rack Architecture (Eurorack 3U/16HP compatible)
 * Teensy 3.6 Based (32 bit 180 MHz ARM Cortex-M4 processor with floating point unit and DSP)
-* USB Full-Speed Controller (USB Audio, MIDI, COM, HID)
+* USB Full-Speed Device (USB Audio, MIDI, COM, HID)
+* USB Full-Speed Host (USB Keyboard, peripherals)
 * Quadrophonic Headphone outputs (dual 3.5mm stereo jacks)
 * Four (4) AC coupled, line level audio input channels (dual 3.5mm stereo jacks)
 * Four (4) AC coupled, line level audio output channels (dual 3.5mm stereo jacks)
