@@ -1,7 +1,20 @@
 # QuadroTeenia - A multi-channel, polymorphic audio module
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-The QuadroTeenia is a low cost, embeddable audio module
+Format : ERA / Eurorack / Breadboard Friendly
+
+Height : 3U 
+
+Width: 16HP
+
+Depth : 1.0 cm
+
+Power : +5V (USB) 200mA
+
+Jacks : 3.5mm Jacks (CUI SJ1)
+
+The QuadroTeenia is a low cost, embeddable audio module based on the PJRC Teensy 3.5/3.6 module :
 
 * Embedded Rack Architecture (Eurorack compatible)
 * Teensy 3.6 Based (32 bit 180 MHz ARM Cortex-M4 processor with floating point unit and DSP)
