@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Format : ERA / Eurorack / Breadboard Friendly
+Format : ERA / Eurorack / (Dual) Breadboard Friendly
 
 Height : 3U 
 
@@ -44,12 +44,12 @@ The QuadroTeenia is a low cost, embeddable audio module based on the PJRC Teensy
 * USB VOIP/Telephony device - two headsets (with microphones) for training, monitoring calls
 * Audio "trigger" device - play samples based on external triggers
 
-Add "Quadro" option boards for :
+Add "Quadro" optional components and boards for :
 * USB/MIDI to Eurorack Audio/CV/Control/Trigger
 * Eurorack Multi-Sample Player
 * Eurorack Sequencer
-* Eurorack Reverb/Echo/Delay/Flanger
-* Eurorack Complex Filter 
+* Eurorack Reverb/Echo/Delay/Flanger (add SRAM)
+* Eurorack Complex Filter (add SRAM)
 
 ---------------------------------------
 ## QuadroTeenia Status <a name="QuadroTeenia_Status"/>
