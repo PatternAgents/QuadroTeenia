@@ -71,9 +71,9 @@ Revision 1.0.0 - Initial Layout received from OSHpark
 
 ## QuadroTeenia Documentation Index <a name="QuadroTeenia_documentation_index"/>
 
-[QuadroTeenia Project](http://thingsoc.github.io/projects/QuadroTeenia.html)
+[QuadroTeenia Project](https://github.com/PatternAgents/QuadroTeenia)
 
-[QuadroTeenia Hardware](https://github.com/patternagents/QuadroTeenia/tree/master/QuadroTeenia/revisions/R1_0_0)
+[QuadroTeenia Hardware](https://github.com/patternagents/QuadroTeenia/tree/master/QuadroTeenia/revisions/R1_0_0/)
 
 
 ---------------------------------------
