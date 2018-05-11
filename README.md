@@ -32,7 +32,7 @@ The QuadroTeenia is a low cost, embeddable audio module based on the Teensy 3.5/
 * Add optional "Quadro" boards for ERA and Eurorack jacks and interfaces
 * Add optional Front-Panel board for mounting in ERA and/or Eurorack enclosures
 
-[![QuadroTeenia Midi](https://img.youtube.com/vi/CV_AIyOy-t4.jpg)](https://www.youtube.com/watch?v=CV_AIyOy-t4)
+[![QuadroTeenia Midi](https://img.youtube.com/vi/CV_AIyOy-t4/0.jpg)](https://www.youtube.com/watch?v=CV_AIyOy-t4)
 
 [![QuadroTeenia](https://img.youtube.com/vi/xMB5RRlq_T8/0.jpg)](https://www.youtube.com/watch?v=xMB5RRlq_T8)
 
