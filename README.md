@@ -20,9 +20,8 @@ The QuadroTeenia is a low cost, embeddable audio module based on the Teensy 3.5/
 * Teensy 3.6 Based (32 bit 180 MHz ARM Cortex-M4 processor with floating point unit and DSP)
 * USB Full-Speed Device (USB Audio, MIDI, COM, HID)
 * USB Full-Speed Host (USB Keyboard, peripherals)
-* Quadrophonic Headphone outputs (dual 3.5mm stereo jacks)
-* Four (4) AC coupled, line level audio input channels (dual 3.5mm stereo jacks)
-* Four (4) AC coupled, line level audio output channels (dual 3.5mm stereo jacks)
+* Two  (2) AC coupled, line level audio input channels 
+* Four (4) AC coupled, line level audio output channels
 * Four (4) DC coupled, ADC input channels
 * Four (4) DC coupled, DAC output channels
 * Four (4) DC coupled  Trigger input channels
@@ -33,6 +32,8 @@ The QuadroTeenia is a low cost, embeddable audio module based on the Teensy 3.5/
 * Add optional "Quadro" boards for ERA and Eurorack jacks and interfaces
 * Add optional Front-Panel board for mounting in ERA and/or Eurorack enclosures
 
+[![QuadroTeenia Midi](https://img.youtube.com/vi/CV_AIyOy-t4.jpg)](https://www.youtube.com/watch?v=CV_AIyOy-t4)
+
 [![QuadroTeenia](https://img.youtube.com/vi/xMB5RRlq_T8/0.jpg)](https://www.youtube.com/watch?v=xMB5RRlq_T8)
 
 [![patternagents QuadroTeenia](https://raw.githubusercontent.com/patternagents/QuadroTeenia/master/QuadroTeenia/images/QuadroTeenia_iso.png?raw=true)QuadroTeenia](https://github.com/patternagents/QuadroTeenia)
@@ -40,10 +41,8 @@ The QuadroTeenia is a low cost, embeddable audio module based on the Teensy 3.5/
 ---------------------------------------
 ## QuadroTeenia Applications <a name="QuadroTeenia_Applications"/>
 
-* USB to Quadrophonic Headphones - high quality surround sound for VR applications
-* USB to Dual Stereo Headphones - drive sets of headphones for art installations
-* USB VOIP/Telephony device - two headsets (with microphones) for training, monitoring calls
-* Audio "trigger" device - play samples based on external triggers
+* Audio record/playback "trigger" device - 
+  record/play samples based on external triggers
 
 Add "Quadro" optional components and boards for :
 * USB/MIDI to Eurorack Audio/CV/Control/Trigger
@@ -57,6 +56,16 @@ Add "Quadro" optional components and boards for :
 
 **4/06/2018:** 
 Revision 1.0.0 - Initial Layout received from OSHpark
+
+**5/1/2018:**
+Revision 1.0.0 
+1) About 90% functional on first revision.
+2) SGTL5000 routes too long, footprint issues, not functional
+
+**5/11/2018:**
+Revision 1.0.0
+1) Midi I/O running, initial Midi-CV app
+
 
 ---------------------------------------
 ## QuadroTeenia Model Images
