@@ -1,5 +1,8 @@
 # QuadroTeenia - A multi-channel, polymorphic audio module
 
+(Deprecated - see [Spoken into the Void](https://github.com/PatternAgents/SitV for the current development version!)
+
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Format : ERA / Eurorack / (Dual) Breadboard Friendly
